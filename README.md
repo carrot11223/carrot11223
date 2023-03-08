@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center"> <img src="https://camo.githubusercontent.com/c31248d607b3c8fe3175a3b6ca8d8f297ec4e2ce91daefa658ab2c34982890ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966" /> </div>
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carrot11223&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carrot11223&theme=dark&layout=compact)
 <div align="center"> <img src="https://metrics.lecoq.io/carrot11223?template=classic&config.timezone=Asia%2FShanghai"> </div>

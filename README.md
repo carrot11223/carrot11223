@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carrot11223&theme=dark&layout=compact)
 <div align="center"> <img src="https://metrics.lecoq.io/carrot11223?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=carrot11223" /> </div>
+
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>

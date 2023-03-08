@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carrot11223&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carrot11223&theme=dark&layout=compact)
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/carrot11223?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=carrot11223" /> </div>
